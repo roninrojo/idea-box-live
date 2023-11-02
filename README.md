@@ -3,7 +3,7 @@
 
 ## 1 / 3 Proyecto Idea Box 
 
-🔳 Creación y recorrido del proyecto
+✅ Creación y recorrido del proyecto
 🔳 Creación de la estructura
 🔳 Extrapolar e hidratar
 🔳 Agregar autentificación
