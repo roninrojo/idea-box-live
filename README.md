@@ -1,7 +1,16 @@
-# Vue 3 + Vite
+# Construye 3 proyectos con Vue 3
+[Escuela vue](https://escuelavue.es/)
 
-This template should help get you started developing with Vue 3 in Vite. The template uses Vue 3 `<script setup>` SFCs, check out the [script setup docs](https://v3.vuejs.org/api/sfc-script-setup.html#sfc-script-setup) to learn more.
+## 1 / 3 Proyecto Idea Box 
 
-## Recommended IDE Setup
-
-- [VS Code](https://code.visualstudio.com/) + [Volar](https://marketplace.visualstudio.com/items?itemName=Vue.volar) (and disable Vetur) + [TypeScript Vue Plugin (Volar)](https://marketplace.visualstudio.com/items?itemName=Vue.vscode-typescript-vue-plugin).
+🔳 Creación y recorrido del proyecto
+🔳 Creación de la estructura
+🔳 Extrapolar e hidratar
+🔳 Agregar autentificación
+🔳 Agregar ideas
+🔳 Escuchar ideas en tiempo real
+🔳 Votar ideas
+🔳 Restringir votos
+🔳 Añadir animación y color
+🔳 Eliminar ideas
+🔳 Despliegue en Firebase Hosting
